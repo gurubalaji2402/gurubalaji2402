@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1  align="center"  >Hi, I'm Guru Balaji </span></h1>
+<h3 align="center">A passionate Developer from India</h3>
 
-<!--
-**gurubalaji2402/gurubalaji2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurubalaji2402&label=Profile%20views&color=0e75b6&style=flat-square" alt="gurubalaji2402" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **java full Stack development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫To reach me **gurubalajibtechit@gmail.com**
+
+
+![dev](https://github.com/gurubalaji2402/gurubalaji2402/assets/59954872/59b5b7b3-8afd-4371-8aee-66af32117b4f)
+
+
+
