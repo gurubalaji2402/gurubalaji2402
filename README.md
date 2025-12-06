@@ -1,5 +1,5 @@
 <h1  align="center"  >Hi, I'm Guru Balaji </span></h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer from Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurubalaji2402&label=Profile%20views&color=0e75b6&style=flat-square" alt="gurubalaji2402" /> </p>
 
