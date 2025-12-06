@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurubalaji2402&label=Profile%20views&color=0e75b6&style=flat-square" alt="gurubalaji2402" /> </p>
 
-- 🌱 I’m currently learning **java full Stack development**
+- 🌱 I’m currently learning **java and selenium**
 
 - 📫To reach me **gurubalajibtechit@gmail.com**
 
