@@ -8,7 +8,7 @@
 - 📫To reach me **gurubalajibtechit@gmail.com**
 
 
-![dev](https://github.com/gurubalaji2402/gurubalaji2402/assets/59954872/59b5b7b3-8afd-4371-8aee-66af32117b4f)
+<img width="1608" height="409" alt="Image" src="https://github.com/user-attachments/assets/1c4eda8f-f44d-4c0a-8e69-5a85b9b24c92" />
 
 
 
