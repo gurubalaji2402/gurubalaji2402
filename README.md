@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **java and selenium**
 
-- 📫To reach me **gurubalajibtechit@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
         <p align="left"> 
                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
