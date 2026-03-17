@@ -1,11 +1,6 @@
 #  I'm Guru Balaji
 
 ### 💻 Software Developer | Automation Tester | AI Enthusiast
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurubalaji2402&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
