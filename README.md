@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guru Balaji
+#  I'm Guru Balaji
 
 ### 💻 Software Developer | Automation Tester | AI Enthusiast
 
