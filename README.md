@@ -38,6 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/Boldnew.ai-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="60" height="60"/>
 </p>
 
 ---
