@@ -55,22 +55,6 @@
 
 ---
 
-## 🔥 Projects
-- 🧠 AI mini projects using APIs  
-- 🧪 Automation testing framework (Selenium + TestNG + Cucumber)  
-- 🌐 Full stack apps built using AI tools  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurubalaji2402&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurubalaji2402&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Coding Mindset
 ```java
 Developer dev = new Developer();
@@ -80,6 +64,7 @@ while(dev.isCoding()){
     dev.buildProjects();
     dev.drinkCoffee();
 }
+
 
 
 
